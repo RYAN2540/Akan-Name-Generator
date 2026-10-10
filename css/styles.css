@@ -117,6 +117,13 @@ span.heading-name {
     color: #FCA311;
 }
 
+.akan-form .btn-primary:hover,
+.akan-form .btn-primary:focus {
+    background-color: #FCA311;
+    border-color: #FCA311;
+    color: #14213d;
+}
+
 .rdio input[type="radio"]:checked+label::after {
     background-color: #FCA311;
 }
@@ -130,7 +137,7 @@ span.heading-name {
 }
 
 .your-akan-name p {
-    font-family: 'Kenia', cursive;
+    font-family: 'Jost', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
     color: #14213d;
